@@ -37,7 +37,7 @@ along with other software projects and some production experience.
 
 ### Casselmedia
 
- casselmedia.com
+ [casselmedia.com](https://casselmedia.com)
 
  Creative portfolio site, hand designed & coded
 
