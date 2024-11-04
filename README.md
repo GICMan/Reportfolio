@@ -9,7 +9,7 @@ along with other software projects and some production experience.
 
  - 2nd year student at the [Rochester Institute of Technology (RIT)](https://www.rit.edu/).
  - Studying [Motion Picture Science](https://www.rit.edu/study/motion-picture-science-bs)
- - Accumulated key experience while still at early in career
+ - Accumulated key experience while still at early point in career
      - Worked in production environment
      - Deployed media software solutions
  - [SMPTE](https://www.smpte.org/who-we-are) 2024 [scholarship](https://www.smpte.org/about/awards-programs/louwolf-winners) awardee
