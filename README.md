@@ -22,6 +22,8 @@ along with other software projects and some production experience.
 
 ### Dreamcatcher
 
+ [Download Beta](https://testflight.apple.com/join/tZSsAFZF) (Requires iOS)
+
  - Full stack personal side project, co-created with [Jonah Witte](linkedin.com/in/jonah-witte-202928302)
  - Social app for logging & sharing dreams
  - LLM embedding for finding similarities between dreams
